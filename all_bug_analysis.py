@@ -4,6 +4,7 @@ Sep 27, 2023
 Answer to RQ1 
 '''
 # Wow
+# Second attempt
 import os 
 import csv 
 import pandas as pd 
